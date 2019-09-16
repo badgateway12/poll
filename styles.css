@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #364c5a;
+    color: #ffffff;
+    font-size: 20px;
+    font-family: Georgia, serif;
+}
+
+fieldset {
+    border-radius: 5px;
+    display: block;
+    letter-spacing: 2px;
+    line-height: 1.25em;
+    margin: 20px auto;
+    padding: 20px;
+    vertical-align: center;
+    width: 75%;
+
+}
+
+legend {
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    display: block;
+    font-style: italic;
+    padding: 20px;
+    text-align: center;
+}
+
+input[type=submit] {
+    font-size: 20px;
+    font-family: Georgia, serif;
+    color: #364c5a;
+    background-color: #ffffff;
+    font-weight: bold;
+    font-style: italic;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+
+table {
+    margin: 20px auto;
+    width: 75%;
+}
+
+table, th, td {
+    border: 1px solid #ffffff;
+    border-collapse: collapse;
+    border-radius: 5px;
+}
+
+td {
+    padding-left: 10px;
+    text-align: left;
+}
+
+th {
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+
+#poll-result {
+    display: block;
+    margin: 10px auto;
+    vertical-align: center;
+    width: 75%;
+}

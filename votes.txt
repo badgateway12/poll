@@ -1,0 +1,8 @@
+{
+    "Lateness": 13,
+    "Interrupting": 8,
+    "Losing attention": 8,
+    "Unprofessional correspondence": 6,
+    "Stupid questions": 8,
+    "Disinterest": 6
+}
